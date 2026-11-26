@@ -1,1 +1,13 @@
-
+{
+  "latestVersion": "1.1.5",
+  "downloadUrl": "https://github.com/tahrioke100-sketch/vexanime/releases/download/v1.1.5/Vexanime_1.1.5_x64-setup.exe",
+  "installerName": "Vexanime_1.1.5_x64-setup.exe",
+  "releaseDate": "2026-11-26",
+  "maintenance": false,
+  "message": "Vexanime 1.1.5 is out!",
+  "features": [
+    "Global auto-updater across all pages",
+    "Light mode airing card image fix",
+    "Centered sidebar icons & blocked Ctrl+F / Ctrl+P"
+  ]
+}
