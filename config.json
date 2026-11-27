@@ -1,12 +1,13 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.2.0",
   "releaseDate": "2026-11-26",
   "maintenance": false,
-  "message": "Vexanime 1.0.0 is out!",
-  "features": [
-    "Global auto-updater across all pages",
-    "added app usage with real time tracking and enhanced profile page with detailed options",
-    "fixed the style and improved visibility"
-    "Centered sidebar icons & blocked Ctrl+F/Ctrl+P"
+  "message": "Vexanime 1.2.0 is out!",
+  "features": [  "New Liquid Glass splash screen with sakura petals and launch sound",
+  "Signed in-app auto-updater with live download progress",
+  "Related Seasons section and Continue Watching episode badges on anime pages",
+  "Home 'View all' links now open Discover with matching filters and a redesigned sort menu",
+  "Speech-bubble sidebar tooltips, full-width episode grids, and cleaner card styling",
+  "Lower CPU/GPU usage, faster startup, and accurate App Usage session tracking"
   ]
 }
