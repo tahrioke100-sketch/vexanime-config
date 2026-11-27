@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.1.7",
   "releaseDate": "2026-11-26",
   "maintenance": false,
   "message": "Vexanime 1.0.0 is out!",
   "features": [
     "Global auto-updater across all pages",
-    "bENTAHA",
+    "",
     "Centered sidebar icons & blocked Ctrl+F / Ctrl+P"
   ]
 }
